@@ -72,9 +72,7 @@
     "cookiesAlert": false,
     "gdpr": false,
     "screenshot": "screenshot.png",
-    "usedWebp": false,
-    "publishType": "local",
-    "publishPath": "file:///B:/dobleF/Documents/Repositorios%20GIT/Rain-Bringer-2.x.x"
+    "usedWebp": false
   },
   "pages": {
     "index.html": {
